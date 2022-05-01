@@ -1,3 +1,3 @@
 # arama motoru com
 
-<a href="https://com.com.tr">arama motoru</a> , son dakika haberleri, <a href="https://com.com.tr/hava-durumu">hava durumu</a> , <a href="https://com.com.tr/nobetci-eczaneler">nöbetçi eczaneler</a> , kripto para fiyatları, koronavirüs tablosu, döviz kurları, aklına takılan her şeyin cevabı burada
+<a href="https://com.com.tr">arama motoru</a> , döviz kurları, <a href="https://com.com.tr/hava-durumu">hava durumu</a> , nöbetçi eczaneler, <a href="https://com.com.tr/dizin/">ücretsiz firma rehberi</a> , kripto para fiyatları, aklına takılan her şeyin cevabı burada
